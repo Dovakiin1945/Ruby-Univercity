@@ -11,7 +11,7 @@ def menu ()
         when 1
             task1
         when 2
-            task 2
+            task2
         else 
             break
         end 
