@@ -13,7 +13,7 @@ def menu ()
         when 2
             task2
         else
-            puts "OK, Lets take a break, and drink some beer"
+            puts "OK, Lets take a break and drink some beer"
             break
         end 
     end
